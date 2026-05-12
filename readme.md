@@ -7,3 +7,5 @@ This is a complete git course
 # This is from Bug branch
 
 # This is commit 1 
+
+# This is commit 2
